@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Nickmunene77.github.io/SearchItems-react/static/css/main.2dee4d68.css",
-    "main.js": "/Nickmunene77.github.io/SearchItems-react/static/js/main.a4a58ed9.js",
-    "static/js/787.576a81ba.chunk.js": "/Nickmunene77.github.io/SearchItems-react/static/js/787.576a81ba.chunk.js",
-    "index.html": "/Nickmunene77.github.io/SearchItems-react/index.html",
-    "main.2dee4d68.css.map": "/Nickmunene77.github.io/SearchItems-react/static/css/main.2dee4d68.css.map",
-    "main.a4a58ed9.js.map": "/Nickmunene77.github.io/SearchItems-react/static/js/main.a4a58ed9.js.map",
-    "787.576a81ba.chunk.js.map": "/Nickmunene77.github.io/SearchItems-react/static/js/787.576a81ba.chunk.js.map"
+    "main.css": "/SearchItems-react/static/css/main.2dee4d68.css",
+    "main.js": "/SearchItems-react/static/js/main.64df777b.js",
+    "static/js/787.576a81ba.chunk.js": "/SearchItems-react/static/js/787.576a81ba.chunk.js",
+    "index.html": "/SearchItems-react/index.html",
+    "main.2dee4d68.css.map": "/SearchItems-react/static/css/main.2dee4d68.css.map",
+    "main.64df777b.js.map": "/SearchItems-react/static/js/main.64df777b.js.map",
+    "787.576a81ba.chunk.js.map": "/SearchItems-react/static/js/787.576a81ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2dee4d68.css",
-    "static/js/main.a4a58ed9.js"
+    "static/js/main.64df777b.js"
   ]
 }
